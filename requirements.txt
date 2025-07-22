@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pandas
+openpyxl
+sqlite3  # Comes with Python stdlib
+matplotlib
+langchain
+langchain-community
+google-generativeai  # For Gemini
